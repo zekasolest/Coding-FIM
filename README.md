@@ -5,7 +5,8 @@ Hashing Algorithms + Basic coding File Integrity Monitor (FIM)
 
 This project demonstrates the implementation of a File Integrity Monitor (FIM) using basic coding techniques and hashing algorithms. The primary objective is to ensure the integrity of files by detecting any unauthorized changes or modifications. The project is designed to showcase the practical application of cryptographic hashing in monitoring and maintaining the integrity of critical files.
 
-![Screenshot 2024-07-01 at 3 32 02 PM](https://github.com/zekasolest/Coding-FIM/assets/36097391/55934470-802e-4749-89d9-877d98f7f21c)
+![Screenshot 2024-07-01 at 5 40 48 PM](https://github.com/zekasolest/Coding-FIM/assets/36097391/5763c82e-c5b6-4e11-8abe-50aacbb386e8)
+
 
 
 
